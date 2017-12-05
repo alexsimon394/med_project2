@@ -12,7 +12,7 @@ class WelcomeController < ApplicationController
   def faqs
   end
 
-  def providers
+  def testimonials
   end
 
   def contact
